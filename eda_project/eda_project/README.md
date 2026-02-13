@@ -40,3 +40,5 @@ eda_project/
 5. Data visualization  
 6. Insights & conclusions  
 
+## ✨ Status
+🚧 Project in progress — dataset and analysis notebook will be added next.
