@@ -3,6 +3,14 @@
 This repository contains my data analysis projects as I transition into a **Junior Data Analyst** role.
 Each project is built with a clear question, clean workflow, and actionable insights.
 
+## 📊 Dataset
+
+- **Name:** Online Retail Dataset
+- **Source:** Kaggle  
+- **Link:** https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
+⚠️ Due to file size limitations, the raw dataset is not stored in this repository.
+
 ## Skills & Tools
 - **Python:** Pandas, NumPy, Matplotlib
 - **SQL:** Joins, CTEs, Window functions (learning/using)
